@@ -1,7 +1,7 @@
 # IronFuel Nutritions: Inventory Management System
 
 This repository contains the C++ coursework project for the Object-Oriented Programming course. The software simulates an inventory management system for a sports nutrition store ("IronFuel Nutritions"), allowing users to track, sort, purchase, and filter products.
-
+ 
 ## 📌 Project Features & Coursework Criteria Fulfilled
 
 This project strictly adheres to the coursework requirements:
