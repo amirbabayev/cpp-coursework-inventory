@@ -25,7 +25,7 @@ This project strictly adheres to the coursework requirements:
 
 ## 🚀 How to Compile and Run
 
-This project is cross-platform and can be built using CMake (recommended) or any C++17 compatible compiler.
+This project is cross-platform and can be built using CMake or any C++17 compatible compiler.
 
 ### Option 1: Using CMake (Windows, macOS, Linux)
 1. Create a build directory: `mkdir build && cd build`
