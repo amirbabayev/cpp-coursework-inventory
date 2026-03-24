@@ -12,5 +12,5 @@ void Product::reduceStock(int amount) {
         // Exception handling for business logic
         throw std::runtime_error("Error: Not enough stock for " + name);
     }
-    stock -= amount;
+    stock -= amount; 
 }
